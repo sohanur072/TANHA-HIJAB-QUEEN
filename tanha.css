@@ -1,0 +1,80 @@
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 30px;
+    
+}
+body{
+    margin: 0px;
+}
+.head{
+    color: orange;
+    font-size: 50px;
+}
+.hname{
+    font-size: 70px;
+    color: rgb(52, 2, 2);
+
+}
+.love-width img{
+    width: 100%;
+   
+}
+.love-width{
+    width: 40%;
+    float: left;
+    margin: 0% 3% 3% 3%;
+    padding: 0% 1% 1% 1%;
+}
+
+.rank{
+    background-color: orange;
+    border-radius: 10px;
+    width: 60px;
+    height: 20px;
+    color: rgba(36, 1, 1, 0.918);
+    font-size: 30px;
+    text-decoration: none;
+    padding: 5px 10px;
+    font-family: 'Lobster', cursive;
+          
+}
+.top-banner{
+    background-image: url("pic8.jpeg");
+    background-repeat: no-repeat;
+
+    }
+
+.title{
+    font-size: 35px;
+    color: rgb(10, 0, 0);
+    background-color: rgb(136, 194, 189);
+    padding: 5px;
+    border-radius: 10px;
+    text-align: justify;
+}
+p{
+    font-size: 20px;
+}
+.picture-man{
+    width: 30%;
+    float: left;
+    margin: 5px;
+    padding: 2px;
+
+}
+.picture-man img{
+    width: 100%;
+}
+.murgi{
+    margin-left: 60px;
+}
+section{
+    height: 500px;
+
+}
+.vid-sec{
+    float: left;
+    width: 25%;
+    margin: 2%;
+    padding: 1%;
+}
